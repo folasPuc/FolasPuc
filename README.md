@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Rafael Rodrigues Sato</h1>
-<h3 align="center">Estudante de Engenharia de Computação na PUC-CAMPINAS - 7º Semestre.</h3>
+<h3 align="center">Estudante de Engenharia de Computação na PUC-CAMPINAS - 9º Semestre.</h3>
 
 - 📫 Contato: **rafael.rsato@gmail.com**
 
